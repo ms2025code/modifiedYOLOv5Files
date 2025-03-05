@@ -1,0 +1,5 @@
+Links to datasets:
+
+FASDD: https://www.scidb.cn/en/detail?dataSetId=ce9c9400b44148e1b0a749f5c3eb0bda
+D-FIRE:https://github.com/gaiasd/DFireDataset
+AFSE: https://ieee-dataport.org/documents/aerial-fire-and-smoke-essential-dataset#:~:text=A%20new%20small%20aerial%20flame,this%20dataset%3A%20smoke%20and%20fire.
