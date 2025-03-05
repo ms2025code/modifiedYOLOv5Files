@@ -5,3 +5,5 @@ Replace "common.py" and "yolo.py" files within file structure of YOLOv5 with mod
 Rename "common_yolov(X)_Bottleneck.py" to "common.py" after replacing file.
 
 Point to correct "yaml" file when training model.
+
+Dataset files for trainining/validation/testing also included.
